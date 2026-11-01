@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Vivek 👋
 
-<!--
-**VivekGuleria717/vivekguleria717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 MERN / MEAN Stack Developer | 5+ Years of Experience
 
-Here are some ideas to get you started:
+I'm a Full Stack Developer passionate about building scalable, maintainable, and user-centric web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Experienced in Angular, React, Node.js, Express.js and JavaScript.
+- 🧠 Currently exploring System Design, Agentic AI and DSA.
+- ⚡ Interested in backend engineering, scalable architectures and AI-powered applications.
+- 🌱 Always learning and building projects that solve real-world problems.
+
+### 🛠️ Tech Stack
+
+**Frontend:** Angular, React, JavaScript, TypeScript, HTML, CSS, Bootstrap
+
+**Backend:** Node.js, Express.js, Core Java, REST APIs
+
+**Database:** MongoDB, PostgreSQL, SQL
+
+**Tools:** Git, GitHub, Docker, VS Code
+
+
+
+
+
+---
+
+⭐ *Building, learning, and improving one commit at a time.*
