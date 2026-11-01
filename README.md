@@ -7,7 +7,6 @@ I'm a Full Stack Developer passionate about building scalable, maintainable, and
 - 💻 Experienced in Angular, React, Node.js, Express.js and JavaScript.
 - 🧠 Currently exploring System Design, Agentic AI and DSA.
 - ⚡ Interested in backend engineering, scalable architectures and AI-powered applications.
-- 🌱 Always learning and building projects that solve real-world problems.
 
 ### 🛠️ Tech Stack
 
